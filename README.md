@@ -1,6 +1,6 @@
 # Vkinder
 
-![](https://github.com/Junaer/test_md/blob/main/Vkinder4.png)
+![](https://github.com/Junaer/test_md/blob/main/Vkinder3.png)
 
 *Vkinder* — Бот для Вконтакте для поиска второй половинки 💗
 
